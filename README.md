@@ -1,5 +1,5 @@
 # Hello, I'm Liam Longoria
-<a href="[www.linkedin.com/in/liam-longoria](https://www.linkedin.com/in/liam-longoria/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/liam-longoria/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
