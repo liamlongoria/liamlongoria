@@ -1,17 +1,17 @@
 # Hello, I'm Liam Longoria
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 As a recent graduate with an educational background in business and management, I have decided to pursue a career in information technology, specifically cybersecurity. I have decided to choose this path because I have a passion for solving problems in the most efficient and effective ways possible. In the highly volitile field of technology, things are always changing and attackers are finding new ways to compromise systems, so there is always a new challenge at hand. Here in this repository, you will get a better understanding of my technical aptitude through the labs and projects documented below that I have conducted in my free time.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My goal is to sustain a long and successful cybersecurity career, right now specifically aiming to be part of a Security Operations Center (SOC) as a tier 1 analyst. This in particular stands out to me because I thrive working in fast-paced, high-stress environments and I am continuing to sharpen my skills in threat intellignece and incident responce.
  
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
