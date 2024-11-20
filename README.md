@@ -13,14 +13,14 @@ My goal is to sustain a long and successful cybersecurity career, right now spec
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Project                                         | Link         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory Project         | <a href="https://github.com/liamlongoria/Active-Directory-Project">View</a>|
+| SOAR-EDR Project | <a href="https://github.com/liamlongoria/SOAR-EDR-Project">View</a>|
+| Malware Analysis Project   | <a href="https://github.com/liamlongoria/Malware-Analysis-Project">View</a>|
+| Azure SOC      | <a href="https://github.com/liamlongoria/Azure-SOC">View</a>|
+| Network Mapping Project        |  <a href="https://github.com/liamlongoria/Network-Mapping-Project">View</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
