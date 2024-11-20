@@ -3,7 +3,7 @@
 
 
 
-As a recent graduate with an educational background in business and management, I have decided to pursue a career in information technology, specifically cybersecurity. I have decided to choose this path because I have a passion for solving problems in the most efficient and effective ways possible. In the highly volitile field of technology, things are always changing and attackers are finding new ways to compromise systems, so there is always a new challenge at hand. Here in this repository, you will get a better understanding of my technical aptitude through the labs and projects documented below that I have conducted in my free time.
+As a recent graduate with an educational background in business and management, I have decided to pursue a career in information technology, specifically cybersecurity. I have decided to choose this path because I have a passion for solving problems in the most efficient and effective ways possible. In the highly volitile field of technology, things are always changing and attackers are finding new ways to compromise systems, so there is always a new challenge at hand. Here in this repository, you will get a better understanding of my technical aptitude through the skills and projects documented below that I have conducted in my free time.
 
 ## Objective
 
