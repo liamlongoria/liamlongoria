@@ -10,16 +10,15 @@ As a recent graduate with an educational background in business and management, 
 
 My goal is to sustain a long and successful cybersecurity career, right now specifically aiming to be part of a Security Operations Center (SOC) as a tier 1 analyst. This in particular stands out to me because I thrive working in fast-paced, high-stress environments and I am continuing to sharpen my skills in threat intellignece and incident responce.
  
-## Skills
+## Projects
 
 
-| Project                                         | Link         |
-|-----------------------------------------------|----------------------------|
-| Active Directory Project         | <a href="https://github.com/liamlongoria/Active-Directory-Project">View</a>|
-| SOAR-EDR Project | <a href="https://github.com/liamlongoria/SOAR-EDR-Project">View</a>|
-| Malware Analysis Project   | <a href="https://github.com/liamlongoria/Malware-Analysis-Project">View</a>|
-| Azure SOC      | <a href="https://github.com/liamlongoria/Azure-SOC">View</a>|
-| Network Mapping Project        |  <a href="https://github.com/liamlongoria/Network-Mapping-Project">View</a>|
+
+- [Active Directory Project](https://github.com/liamlongoria/Active-Directory-Project)
+- [SOAR-EDR Project](https://github.com/liamlongoria/SOAR-EDR-Project)
+- [Malware Analysis Project](https://github.com/liamlongoria/Malware-Analysis-Project)
+- [Azure SOC Project](https://github.com/liamlongoria/Azure-SOC)
+- [Network Mapping Project](https://github.com/liamlongoria/Network-Mapping-Project)
 
 
 ## Tools
@@ -35,7 +34,6 @@ My goal is to sustain a long and successful cybersecurity career, right now spec
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -49,10 +47,9 @@ My goal is to sustain a long and successful cybersecurity career, right now spec
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+
+
 </div>
 
 ## Projects
