@@ -51,6 +51,9 @@ My goal is to sustain a long and successful cybersecurity career, right now spec
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-ADD8E6?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+
 </div>
 
 ## Certifications
