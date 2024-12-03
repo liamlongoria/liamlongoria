@@ -12,7 +12,7 @@ My goal is to sustain a long and successful cybersecurity career, right now spec
  
 ## Projects
 
-
+Here is a detailed, step-by-step breakdown of my projects: 
 
 - [Active Directory Project](https://github.com/liamlongoria/Active-Directory-Project)
 - [SOAR-EDR Project](https://github.com/liamlongoria/SOAR-EDR-Project)
